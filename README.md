@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Palitot/Palitot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Wellcome
 
-Here are some ideas to get you started:
+I'm Henrique! Let me present a little about myself =)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - currently studying the 4th (fourth) semester of the Computer Networks course 
+ at the Federal Institute of Education, Science and Technology of Paraíba - IFPB.
+ - Enthusiast of Programming Languages 💻
+- I like so much linux 🐧
+
+
+
+#### Reach me out 👇🏼
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](link_do_seu_perfil_no_github) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-costa2019/)](https://www.linkedin.com/in/henrique-costa2019/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrique.palito@academico.ifpb.edu.br)](mailto:henrique.palito@academico.ifpb.edu.br)
