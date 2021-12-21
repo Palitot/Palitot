@@ -3,7 +3,7 @@
 
 I'm Henrique! Let me present a little about myself =)
 
- - currently studying the 6th (sixth) semester of the Computer Networks course 
+ - Currently studying the 6th (sixth) semester of the Computer Networks course 
  at the Federal Institute of Education, Science and Technology of Paraíba - IFPB.
  - Enthusiast of Programming Languages 💻
  - Network Engineer 1 at DOCK TECH
